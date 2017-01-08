@@ -4,34 +4,33 @@
 
 ### Table of Contents
 
-| Contents | --- |
+|  | Contents |
 | --- | --- |
-| --- | **[About](#about)** |
-| - 1	| **[Funding](#funding)** |
-| - 2	| **[Challenges](#challenges)** |
-| - 3	| **[Approaches](#approaches)** |
-| - 3.1	| **[Dual-licensing](#dual-licensing)** |
-| - 3.2	| **[Selling professional services](#selling-professional-services)** |
-| - 3.3	| **[Selling of branded merchandise](#selling-of-branded-merchandise)** |
-| - 3.4	| **[Selling of certificates and trademark use](#selling-of-certificates-and-trademark-use)** |
-| - 3.5	| **[Selling software as a service](#selling-software-as-a-service)** |
-| - 3.6	| **[Partnership with funding organizations](#partnership-with-funding-organizations)** |
-| - 3.7	| **[Voluntary donations](#voluntary-donations)** |
-| - 3.8	| **[Bounty driven development](#bounty-driven-development)** |
-| - 3.9	| **[Preorder-crowdfunding-reverse-bounty model](#preorder-crowdfunding-reverse-bounty-model)** |
-| - 3.10	| **[Advertising-supported software](#advertising-supported-software)** |
-| - 3.11	| **[Selling of optional proprietary extensions](#selling-of-optional-proprietary-extensions)** |
-| - 3.12	| **[Selling of required proprietary parts of a software product](#selling-of-required-proprietary-parts-of-a-software-product)** |
-| - 3.13	| **[Relicensing under a proprietary license](#relicensing-under-a-proprietary-license)** |
-| - 3.14	| **[Obfuscation of source code](#obfuscation of source code)** |
-| - 3.15	| **[Delayed open-sourcing](#delayed-open-sourcing)** |
-| - 3.16	| **[Open sourcing on end-of-life](#open-sourcing-on-end-of-life)** |
-| - 4	| **[FOSS and economy](#FOSS-and-economy)** |
-| - 5	| **[Examples](#examples)** |
-| - 6	| **[See also](#see also)** |
-| - 7	| **[References](#references)** |
-| - 8	| **[Further reading](#further reading)** |
-| --- | --- |
+|     | **[About](#about)** |
+|  1 	| **[Funding](#funding)** |
+|  2 	| **[Challenges](#challenges)** |
+|  3 	| **[Approaches](#approaches)** |
+| 3.1	| **[Dual-licensing](#dual-licensing)** |
+| 3.2	| **[Selling professional services](#selling-professional-services)** |
+| 3.3	| **[Selling of branded merchandise](#selling-of-branded-merchandise)** |
+| 3.4	| **[Selling of certificates and trademark use](#selling-of-certificates-and-trademark-use)** |
+| 3.5	| **[Selling software as a service](#selling-software-as-a-service)** |
+| 3.6	| **[Partnership with funding organizations](#partnership-with-funding-organizations)** |
+| 3.7	| **[Voluntary donations](#voluntary-donations)** |
+| 3.8	| **[Bounty driven development](#bounty-driven-development)** |
+| 3.9	| **[Preorder-crowdfunding-reverse-bounty model](#preorder-crowdfunding-reverse-bounty-model)** |
+| 3.10	| **[Advertising-supported software](#advertising-supported-software)** |
+| 3.11	| **[Selling of optional proprietary extensions](#selling-of-optional-proprietary-extensions)** |
+| 3.12	| **[Selling of required proprietary parts of a software product](#selling-of-required-proprietary-parts-of-a-software-product)** |
+| 3.13	| **[Relicensing under a proprietary license](#relicensing-under-a-proprietary-license)** |
+| 3.14	| **[Obfuscation of source code](#obfuscation of source code)** |
+| 3.15	| **[Delayed open-sourcing](#delayed-open-sourcing)** |
+| 3.16	| **[Open sourcing on end-of-life](#open-sourcing-on-end-of-life)** |
+|  4 	| **[FOSS and economy](#FOSS-and-economy)** |
+|  5 	| **[Examples](#examples)** |
+|  6 	| **[See also](#see also)** |
+|  7 	| **[References](#references)** |
+|  8 	| **[Further reading](#further reading)** |
 
 # About 
 
